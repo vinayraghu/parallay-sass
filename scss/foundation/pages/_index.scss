@@ -1,0 +1,25 @@
+@import "foundation/components/global";
+
+body {
+  border-top: 8px solid $primary-color;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.menuPrimary-item {
+  text-transform: uppercase !important;
+}
+
+.menu-primary {
+  width: 100%;
+  background: $oil;
+}
+
+.footer-body {
+  text-align: center;
+  height: 45px;
+  background: #dedede;
+}
